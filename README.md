@@ -12,4 +12,5 @@ We have implemented and trained various machine learning models for eye state pr
 
 - Random Forest
 - XG Boost
-- K Nearest Neighbour (KNN)
+- Catboost
+- Light GBM
