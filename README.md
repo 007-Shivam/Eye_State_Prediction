@@ -14,3 +14,7 @@ We have implemented and trained various machine learning models for eye state pr
 - XG Boost
 - Catboost
 - Light GBM
+
+## Contributors
+- [**Shivam Bhosle**](https://github.com/007-Shivam)<br>
+- [**Sumeet Dube**](https://github.com/dsumeet14)<br>
