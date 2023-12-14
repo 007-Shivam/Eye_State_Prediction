@@ -1,5 +1,7 @@
 # Eye State Prediction
 
+Published a <b>research paper</b> named <i>"Machine Learning Models for Accurate EEG-Based Eye State Detection"</i> at Scopus Index.<br><br>
+
 This repository contains code and resources for predicting eye states (open or closed) based on EEG (Electroencephalogram) data using machine learning algorithms. The project aims to provide a practical solution for eye state detection, which can have various applications, including driver drowsiness detection, human-computer interaction, and medical research.
 
 ## Dataset
